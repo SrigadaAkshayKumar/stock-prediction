@@ -33,8 +33,8 @@ To set up the project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone <your-github-repo-link>
-cd <repo-folder>
+git clone [<your-github-repo-link>](https://github.com/SrigadaAkshayKumar/stock-prediction.git)
+cd stock-prediction
 
 # Install dependencies
 pip install -r requirements.txt
