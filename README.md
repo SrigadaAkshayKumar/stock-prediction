@@ -1,5 +1,7 @@
 # Stock Analyzer
 
+**Deployed in [Stock-Analysis-tool](https://github.com/SrigadaAkshayKumar/stock)**
+
 ## Overview
 Stock price prediction is a crucial and challenging task in financial markets, with significant implications for investors, traders, and financial analysts. The ability to anticipate future stock prices based on historical trends and market dynamics can lead to better investment strategies and risk management. Traditional statistical methods often fail to capture the complex, non-linear relationships present in financial time-series data.
 
@@ -28,17 +30,20 @@ This research highlights the potential of deep learning in financial market anal
 
 The approach can be extended to multiple stocks, indices, and asset classes, making it a versatile tool for financial applications.
 
+## References
+
+- **Pandas ([**Documentation**](https://pandas.pydata.org/docs/user_guide/missing_data.html)) :** For Data Preprocessing, handling Missing Values
+- **Matplotlib ([**Documentation**](https://matplotlib.org/stable/plot_types/basic/index.html)) :** For Data Visualization
+- **Time Series Analysis ([**machinelearningmastery**](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)) :** Understanding Time Series Prediction with Deep Learning
+- **Understanding LSTM Model ([**machinelearningmastery**](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)):** How to Develop LSTM Models for Time Series Forecasting
+
 ## Installation
 To set up the project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone [<your-github-repo-link>](https://github.com/SrigadaAkshayKumar/stock-prediction.git)
+git clone https://github.com/SrigadaAkshayKumar/stock-prediction.git
 cd stock-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the application
 python app.py
 ```
