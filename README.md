@@ -1,4 +1,4 @@
-# Stock Analyzer
+# Stock price prediction using LSTM
 
 **Deployed in [Stock-Analysis-tool](https://github.com/SrigadaAkshayKumar/stock)**
 
